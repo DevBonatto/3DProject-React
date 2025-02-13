@@ -23,6 +23,11 @@ Clone the project with:
   git clone https://github.com/DevBonatto/3DProject-React
 ```
 
+Then acesses the past that you just created:
+```bash
+  cd 3DProject-React
+```
+
 Then use this command to install the dependencies:
 ```bash
   npm install
